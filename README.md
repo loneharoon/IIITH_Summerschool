@@ -1,9 +1,9 @@
-# IIITH_Summerschool
-#Day_0:
+## IIITH_Summerschool
+# Day_0:
  
  - Practice session on Python Basics, Intro to Machine Learning and Pytorch basics
  
-#Day_1:
+# Day_1:
 
 -  Introduction to ML, Deep Learning, and Optimization by Prof. C.V. Jawahar (IIIT-H)
 -  Optimization and practical issues in Deep Learning by Prof. Vineeth Balasubramanian (IIT-H)
@@ -13,5 +13,9 @@
 	- Learning rate (Adagrad, RMSprop, Adam, ...)
 	- Advanced Optimization  methods (Newton, Quasi-Newton, Conjugate Gradient, Hessian free optimization, Natural Gradient)
 	- Regularization (Dropout)
-	- Batch  Nomralization
+	- Batch  Normalization
 	- Activation  Functions
+
+# Day_3:
+
+- Recurrent Neural networks by Prof Girish (IIIT-H) and Mr. Ankush Gupta (Ph.D. Student Uni. of Oxford)
