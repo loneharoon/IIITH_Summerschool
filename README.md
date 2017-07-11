@@ -2,6 +2,7 @@
 #Day_0:
  
  - Practice session on Python Basics, Intro to Machine Learning and Pytorch basics
+ 
 #Day_1:
 
 -  Introduction to ML, Deep Learning, and Optimization by Prof. C.V. Jawahar (IIIT-H)
