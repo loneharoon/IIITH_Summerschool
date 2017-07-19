@@ -1,9 +1,10 @@
 ## IIITH_Summerschool
-# Day_0:
+Content presented in summer school on Machine Learning at IIIT Hyderabad from 09 - 15 July, 2017.
+## Day 0:
  
- - Practice session on Python Basics, Intro to Machine Learning and Pytorch basics
+ - Practice session on Python Basics, Intro. to Machine Learning and Pytorch basics
  
-# Day_1:
+## Day 1:
 
 -  Introduction to ML, Deep Learning, and Optimization by Prof. C.V. Jawahar (IIIT-H)
 -  Optimization and practical issues in Deep Learning by Prof. Vineeth Balasubramanian (IIT-H)
@@ -16,6 +17,29 @@
 	- Batch  Normalization
 	- Activation  Functions
 
-# Day_3:
+## Day 2:
 
 - Recurrent Neural networks by Prof Girish (IIIT-H) and Mr. Ankush Gupta (Ph.D. Student Uni. of Oxford)
+
+## Day 3:
+
+-  Introduction to Game theory by Prof. Sujit Prakash (IIIT-H)
+-  Generative adverserial networks - I, II by Prof. Vinay Namboodiri (IIT Kanpur)
+
+## Day 4:
+
+- Variational Inference and Auto Encoders by Prof. Kaushik Mitra (IIT Madras)
+- Variational auto encoders by prof. Vineeth Balasubramanian (IIT Hyd.)
+- DARVIZ demonstration by Anush Sanakaran (IBM Bangalore)
+
+## Day 5:
+
+- Reinforcement Learning by Prof. Ravindran Balaraman (IIT Madras)
+- Deep Reinforcement Learning by Dr. Tejas Kulkarni (Google Deep Mind, London)
+
+## Day 6:
+
+- Deep Learning for Language Processing by prof. Mithesh Khapra (IIT Madras)
+- Model Compression by Prof. Girish Varma (IIIT Hyderabad)
+
+----------------------------------------
